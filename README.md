@@ -1,1 +1,2 @@
 # MachineLearning
+Revising from basics 
